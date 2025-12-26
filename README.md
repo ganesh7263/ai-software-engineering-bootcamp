@@ -9,3 +9,8 @@ This repository contains coursework, projects, and notes for the AI-powered Soft
 - One thing AI does well:
 - One thing AI should NOT be trusted with:
 
+## Weather App -Phase 2 Reflection
+- Where Copilot helped with UI:
+- One suggestion I modified:
+- One thing I wrote manually:
+
